@@ -1,0 +1,12 @@
+c:\users\christoy\documents\visual studio 2015\Projects\LFHv20.Calculator\LFHv20.Calculator\bin\Debug\LFHv20.Calculator.exe.config
+c:\users\christoy\documents\visual studio 2015\Projects\LFHv20.Calculator\LFHv20.Calculator\bin\Debug\LFHv20.Calculator.exe
+c:\users\christoy\documents\visual studio 2015\Projects\LFHv20.Calculator\LFHv20.Calculator\bin\Debug\LFHv20.Calculator.pdb
+c:\users\christoy\documents\visual studio 2015\Projects\LFHv20.Calculator\LFHv20.Calculator\obj\Debug\LFHv20.Calculator.csprojResolveAssemblyReference.cache
+c:\users\christoy\documents\visual studio 2015\Projects\LFHv20.Calculator\LFHv20.Calculator\obj\Debug\LFHv20.Calculator.Properties.Resources.resources
+c:\users\christoy\documents\visual studio 2015\Projects\LFHv20.Calculator\LFHv20.Calculator\obj\Debug\LFHv20.Calculator.csproj.GenerateResource.Cache
+c:\users\christoy\documents\visual studio 2015\Projects\LFHv20.Calculator\LFHv20.Calculator\obj\Debug\LFHv20.Calculator.exe
+c:\users\christoy\documents\visual studio 2015\Projects\LFHv20.Calculator\LFHv20.Calculator\obj\Debug\LFHv20.Calculator.pdb
+c:\users\christoy\documents\visual studio 2015\Projects\LFHv20.Calculator\LFHv20.Calculator\bin\Debug\LFHv20.Calculator.exe.manifest
+c:\users\christoy\documents\visual studio 2015\Projects\LFHv20.Calculator\LFHv20.Calculator\bin\Debug\LFHv20.Calculator.application
+c:\users\christoy\documents\visual studio 2015\Projects\LFHv20.Calculator\LFHv20.Calculator\obj\Debug\LFHv20.Calculator.exe.manifest
+c:\users\christoy\documents\visual studio 2015\Projects\LFHv20.Calculator\LFHv20.Calculator\obj\Debug\LFHv20.Calculator.application
